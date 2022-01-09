@@ -1,1 +1,0 @@
-print("Sorry \n"*100)
