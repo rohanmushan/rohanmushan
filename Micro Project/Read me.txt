@@ -1,0 +1,11 @@
+Project Name: Write a program to generate console base invoice
+             -Add products with price 
+             -show product list
+             -generate invoice (Bills)
+
+Group Members: Rohan Mushan    -     Presentation and Collected Data
+               Utkarsh Gaikwad -     He Did Coding 
+               Lokesh Alli     -     He also contributed on coding 
+               Akash gajul     -     He collocted data and at the end he executed the Program
+               Krishna Mhetre  -     krishna givened us the idea of this program and Helped i coding and 
+                                     He Collocted RAW data and.                                      
