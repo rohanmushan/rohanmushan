@@ -1,0 +1,49 @@
+1) Identify the Valid and invalid Operators
+
+    a)    			invalid
+    b)   = 			valid
+    c)    = 			valid
+    d)   &		        valid
+	
+2) If i = 3, j = 2 what is the result of following expressions
+
+    a)  i + 5 = j – 6 
+    b)  j  10  i  2 
+    c)  i  j + 5  j  4
+	  
+-   a)True
+    b)False
+    c)False
+
+3) Which is the correct operator for power(xy)
+-	
+
+4) Which one of these is floor division
+-	
+
+5) What is the order of precedence in python 
+-	a) Parentheses 
+	b) Exponential 
+	c) Multiplication 
+	d) Division 
+	e) Addition 
+	f) Subtraction
+	
+6) What is the answer to this expression, 22 % 3 is
+-	1
+
+7) Mathematical operations can be performed on a string.
+-	False
+
+8) What is meant by an Operator in Python
+-	Operators are symbols which are used to perform operations on values and variables.
+	For eg.3 + 5 Here + operator is adding the two numbers.
+
+9) How many types of operators in Python
+-	Arithmetic operators 
+	Assignment operators
+	Comparison operators
+	Logical operators
+	Identity operators
+	Membership operators
+	Bitwise operators
